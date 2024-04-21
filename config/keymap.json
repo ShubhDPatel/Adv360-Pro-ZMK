@@ -42,11 +42,11 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&kp LEFT_BRACKET", "&kp RIGHT_BRACKET",               "&trans",                "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                                "&trans",               "&trans",                "&trans", "&trans", "&trans"
     ], [
-        "&trans",     "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3", "&kp NUMBER_4", "&kp NUMBER_5",           "&kp NUMBER_6",                                                                        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-        "&trans",          "&kp TAB",        "&kp Q",        "&kp W",        "&kp E",        "&kp R",                  "&kp T",                                                                        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&kp ESC",     "&kp CAPSLOCK",        "&kp A",        "&kp S",        "&kp D",        "&kp F",                  "&kp G", "&kp RIGHT_CONTROL", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-        "&trans",   "&kp LEFT_SHIFT",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",                                                "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-        "&trans", "&kp LEFT_CONTROL",       "&trans",       "&trans",       "&trans",                              "&kp SPACE",            "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+        "&trans",     "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3", "&kp NUMBER_4", "&kp NUMBER_5",           "&kp NUMBER_6",                                                                              "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+        "&trans",          "&kp TAB",        "&kp Q",        "&kp W",        "&kp E",        "&kp R",                  "&kp T",                                                                              "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&kp ESC",     "&kp CAPSLOCK",        "&kp A",        "&kp S",        "&kp D",        "&kp F",                  "&kp G", "&kp RIGHT_CONTROL", "&kp LEFT_WIN",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+        "&trans",   "&kp LEFT_SHIFT",        "&kp Z",        "&kp X",        "&kp C",        "&kp V",                                                      "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+        "&trans", "&kp LEFT_CONTROL",       "&trans",       "&trans",       "&trans",                              "&kp SPACE",             "&mo 4",       "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
